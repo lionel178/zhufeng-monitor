@@ -168,3 +168,7 @@
 - sentry 搭建 vue react 一起使用 开箱即用
 - 灯塔
 - 商业产品：神策
+
+## 完整版 项目地址
+
+https://gitee.com/zhufengpeixun/front-monitor
