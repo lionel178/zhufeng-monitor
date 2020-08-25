@@ -79,6 +79,8 @@
 - DOMContentLoaded
 - FMP
 
+![](./assets/desc.png)
+
 #### 4.5.1 阶段含义
 
 | 字段                       | 含义                                                                                                              |
